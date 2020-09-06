@@ -1,4 +1,4 @@
-# Catan
+# Watan
 Remake of the classic boardgame "Settlers of Catan"
 ![Screenshot](https://github.com/tracymeng2000/Watan/blob/master/watan.png)
 
